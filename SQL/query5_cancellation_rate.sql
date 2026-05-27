@@ -1,5 +1,5 @@
-โจทย์ที่ 5 (Cancellation Rate During Flash Sales): ออร์เดอร์ที่เกิดขึ้นในช่วงแคมเปญประเภท flash-sale มีอัตราการ
-       กดยกเลิกออร์เดอร์ (item_status = 'Cancelled') สูงกว่าช่วงปกติหรือไม่? (พฤติกรรมลูกค้าแย่งกันกดชำระเงินแต่มาเปลี่ยนใจทิ้งทีหลัง)
+-- โจทย์ที่ 5 (Cancellation Rate During Flash Sales): ออร์เดอร์ที่เกิดขึ้นในช่วงแคมเปญประเภท flash-sale มีอัตราการ
+-- กดยกเลิกออร์เดอร์ (item_status = 'Cancelled') สูงกว่าช่วงปกติหรือไม่? (พฤติกรรมลูกค้าแย่งกันกดชำระเงินแต่มาเปลี่ยนใจทิ้งทีหลัง)
 
 SELECT 
      COALESCE(c.campaign_name, "Normal Day") AS campaign_name,
