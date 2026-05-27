@@ -1,5 +1,5 @@
-โจทย์ที่ 3 (Top Product Categories per Campaign): ในแต่ละแคมเปญ สินค้าหมวดหมู่ไหน (category) เป็นแชมป์ขายดีที่สุด?
-        เช่น ช่วง Songkran Sale หมวด Fashion (เสื้อลายดอก/ปืนฉีดน้ำ) พุ่งแซง Electronics จริงไหม?
+-- โจทย์ที่ 3 (Top Product Categories per Campaign): ในแต่ละแคมเปญ สินค้าหมวดหมู่ไหน (category) เป็นแชมป์ขายดีที่สุด?
+-- เช่น ช่วง Songkran Sale หมวด Fashion (เสื้อลายดอก/ปืนฉีดน้ำ) พุ่งแซง Electronics จริงไหม?
 
 SELECT 
      COALESCE(c.campaign_name, "Normal Day") AS campaign_name,
