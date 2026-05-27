@@ -1,0 +1,6 @@
+category,avg_price_Campaign,avg_price_Normal Day,avg_discount_pct_Campaign,avg_discount_pct_Normal Day,avg_quantity_Campaign,avg_quantity_Normal Day,demand_change_pct
+Beauty,551.74,637.67,13.79,0.55,1.44,1.41,2.13
+Electronics,12463.83,13414.22,10.03,0.4,1.41,1.41,0.0
+Fashion,1933.33,2272.73,17.64,1.18,1.43,1.4,2.14
+Groceries,137.74,143.25,6.48,0.47,1.4,1.4,0.0
+Home,6400.68,7257.39,10.0,0.44,1.41,1.41,0.0
