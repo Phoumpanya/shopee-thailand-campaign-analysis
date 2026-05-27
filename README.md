@@ -31,7 +31,7 @@ to answer the question "Are campaigns like 11.11 and 12.12 truly worth it?"
 → Recommend reducing discounts on Group A products to protect margins
 
 ### 5. Songkran Sale has the lowest retention rate at 10.3%
-→ Recommend adding loyalty program or follow-up promotions after Songkran
+→ Recommend adding coupon or follow-up promotions after Songkran
 
 ### 6. 12.12 Sale has the highest cancellation rate at 36%
 → Recommend improving checkout experience and stock availability during 12.12
