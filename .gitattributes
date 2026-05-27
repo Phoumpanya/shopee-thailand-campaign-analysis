@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.ipynb linguist-detectable=true
+*.ipynb linguist-documentation=true
+*.sql linguist-detectable=true
+Data/* linguist-vendored=true
