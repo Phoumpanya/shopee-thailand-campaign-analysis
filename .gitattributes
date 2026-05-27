@@ -1,4 +1,5 @@
 *.ipynb linguist-detectable=true
-*.ipynb linguist-documentation=true
+*.ipynb linguist-language=Python
 *.sql linguist-detectable=true
 Data/* linguist-vendored=true
+Dashboard/* linguist-vendored=true
