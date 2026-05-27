@@ -1,5 +1,4 @@
-โจทย์ที่ 4 (Discount & Maintenance Cost Burden): ดึงค่า discount_percent และค่า maintenance_amount 
-        (ค่าบำรุงรักษาระบบหลังบ้านช่วงคนถล่มแอป) แยกตามรายแคมเปญ เพื่อส่งไปดูสัดส่วนค่าใช้จ่ายใน Python
+-- โจทย์ที่ 4 (Discount & Maintenance Cost Burden): ดึงค่า discount_percent และค่า maintenance_amount (ค่าบำรุงรักษาระบบหลังบ้านช่วงคนถล่มแอป) แยกตามรายแคมเปญ 
 
 SELECT 
      COALESCE(c.campaign_name, "Normal Day") AS campaign_name,
