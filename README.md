@@ -46,10 +46,10 @@ shopee-thailand-campaign-analysis/
 ```
 ## 📈 Dashboard Preview
 ### Marketing Overview
-![Marketing](Dashboard/Marketing Campaign.png)
+![Marketing](Dashboard/Marketing_Campaign.png)
 
 ### Product & Promotion
-![Product](Dashboard/Prod_ion anlysis.png)
+![Product](Dashboard/Product_Promotion.png)
 
 ### Operation & Logistic
-![Operation](Dashboard/Operation & Logistic.png)
+![Operation](Dashboard/Operation_Logistic.png)
